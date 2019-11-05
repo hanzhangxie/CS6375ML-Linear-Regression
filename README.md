@@ -1,5 +1,7 @@
 # Linear-Regression
 
+Linear Regression using Gradient Descent and using ML libraries
+
 Part 1 - Using Gradient Descent
 ===============================
 1. This dataset comes from 1985 Auto Imports Database. All instances with missing attribute values are discarded and all categorical variables are converted into numerical values. And some of attributes that are not closely correlated with the outcome are dropped in preProcess method. The goal of learning is to predict price of car using all numeric and Boolean attributes.
